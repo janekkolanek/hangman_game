@@ -1,2 +1,3 @@
 # hangman_game
-Simple Python hangman game.
+This is simple Python hangman game.
+Hope you enjoy :)
